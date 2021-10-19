@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praneeth855270
+- 👋 Hi, I’m Praneeth RAj
 - 👀 I’m interested in coding,marketing
 - 🌱 I’m currently learning data science
 - intrested in crypto mining
